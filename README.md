@@ -1,4 +1,27 @@
-# blog
+# Samuel Squire
+
+I'm a devops software engineer with skills in Python, Java, Javascript, Terraform and C.
+
+Some highlights of what I am building:
+
+|Project|Description|Link|
+|---|---|---|
+|Automated Assembly Program Synthesis (Python)|I implemented the A* algorithm and run it in parallel to do code generation to automate the synthesis of programs between states.|[samsquire/sliding-puzzle-codegen-memory](https://github.com/samsquire/sliding-puzzle-codegen-memory)|
+|JIT compiler (C & machine code) Assembly expression compiler (Python)|An amd64/x86-64 JIT compiler for a Javascript-like language and a Python expression compiler|[samsquire/compiler](https://github.com/samsquire/compiler)|
+|Interactive Document editor (Javascript, nodejs, Pouch, Ruby, Python)|An interactive environment for writing documents that are inter-referential|[screenshots samsquire/liveinterface](https://github.com/samsquire/liveinterface) [project samsquire/live-interface](https://github.com/samsquire/live-interface)|
+|Pipelined Graphical Build server and GUI (React, Python, Kubernetes, Hashicorp Vault/Consul/Packer, Prometheus, Kibana)|A command line tool with GUI for bringing up environments with Terraform|[samsquire/mazzle](https://github.com/samsquire/mazzle) [samsquire/mazzle-starter](https://github.com/samsquire/mazzle-starter) [homepage](https://devops-pipeline.com/)|
+|Distributed pseudomultimodal (SQL/Graph/Document/DynamoDB-like) Database (Python, Flask)|A toy multimodal distributed database that uses Rockset converged indexes|[samsquire/hash-db](HTTPS://GitHub.com/samsquire/hash-db)|
+|3-way text diff (Python)|A 3-way text differ based on Myers algorithm|[samsquire/text-diff](https://github.com/samsquire/text-diff)|
+|Eventually consistent replication protocol (Python)|A epoll based Python server that asynchronously replicates
+|Journal #1: 100 Ideas for Computing|A journal of ideas for computing|[samsquire/ideas](https://github.com/samsquire/ideas)|
+|Journal #2: Another 85+ Ideas for Computing #2|A journal of ideas for computing|[samsquire/ideas2](https://github.com/samsquire/ideas2)|
+|Journal #3: An Extra 100 Ideas for Computing #3|A journal of ideas for computing|[samsquire/ideas3](https://github.com/samsquire/ideas3)|
+|Journal #4: Additional 100 Ideas for Computing #4|A journal of ideas for computing|[samsquire/ideas4](https://github.com/samsquire/ideas4)|
+|Journal #5: Ideas for Computing|A journal of ideas for computing|[samsquire/ideas5](https://github.com/samsquire/ideas5)|
+|Blog: tech blog|A blog of thoughts|[samsquire/blog](https://github.com/samsquire/blog)|
+
+# my blog
+
 Samuel Squire's personal tech blog
 
 # 10/06/2023 We need to talk about monetization
