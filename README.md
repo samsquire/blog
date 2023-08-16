@@ -24,17 +24,130 @@ Some highlights of what I am building:
 
 Samuel Squire's personal tech blog
 
+# 09/08/2023 Expedited payments
+
+
+
+# 09/08/2023 I wonder if SSH streams are slowing down ansible?
+
+I don't know if Ansible uploads code and runs it unrestricted by stdout/stdin streams connected by TCP or if the buffering of the network protocol in the way blocks Ansible from running code at native speeds.
+
+# 29/06/2023 Customer support apps
+
+Without thinking of graphical user interfaces, user experience designers should decide on the verbs that I can do with my account and provide these in an app, on a phone, live chat, or website.
+
+
+
+# 29/07/2023 Multi apply
+
+When applying for jobs, it would be nice to apply through a centralised system that tracks our progress on each job at the same time.
+
+ 
+
+# 19/07/2023 Desired outcome generation
+
+Why is it that to get something done it requires a person to understand the steps and there's always a form that isn't digitised that needs scanning and sending?
+
+Subscription payments, banks can do that
+
+Taking payments should be easy
+
+
+
+# 08/07/2023 Searching vector space for unrepresented ideas
+
+I wonder if it's possible to find unrepresented ideas in vector space and then map them to tokens? Rather than use a prompt to search vector space, generate interesting prompts from vector space that are unexplored, unrepresented by existing tokens.
+
+# 08/07/2023 If it doesn't do good for everybody, then should it be done?
+
+
+
+# 27/06/2023 Unacceptable states and rule violation
+
+I feel we need a unit test that tests that everyone has what they need and if a change would prevent that being true. Like a check list that prevents undesirable states from occurring.
+
+Simple statements about what should always be true and the steps to take to reverse what is preventing something being true.
+
+
+
+# 26/06/2023 It would make sense if it was renamed
+
+The `/usr` directory in Linux.
+
+
+
+# 24/06/2023 Just create landing pages
+
+Describe imaginary technology - hope someone builds it.
+
+# 23/06/2023 What's going to last?
+
+Linux, Postgres.
+
+# 21/06/2023 Tragedy of software developers and companies
+
+It's upsetting that good ideas fall by the wayside. Take the Java Virtual Machine for example. It runs everywhere! It solves cross platform for you, but there are very few develop desktop applications for it.
+
+# 19/06/2023 Elegance is a simple way of describing what you want to be done
+
+
+
+# 19/06/2023 Going too deep on an diminishing returns/ineffective/knowledge kingdom idea
+
+When thinking of new things you can either go deep or broad. If you go broad, you can cover a lot of shallow ground. If you go deep, you can learn insights that reveal new ground you didn't see before. In the computer industry, we learn new abstractions and build upon abstractions, but sometimes there is an idea where people go very deep and there is diminishing returns or the idea wasn't that good to begin with. People create kingdoms of what they understand and build upon what they understand as intuitive. We are all different in what we understand, at different levels of understanding.
+
+In Haskell, we replace the the complexity of the concrete with the complexity of the abstract. Is it superior or just different?
+
+# 14/06/2023 The web's attention is divided and fragmented
+
+The web feels very different from how it felt in the 2000s. People are split between different websites, mobile applications and different social media and social networks.
+
+* **RSS** I see this icon a lot less frequently nowadays.
+
+# 12/06/2023 - Writing a JIT compiler is EASIER than frontend development
+
+# 12/06/2023 - That's important to me
+
+
+
+# 12/06/2023 Distributed systems are easier with State Machine formulation
+
+
+
+# 12/06/2023 Low-tech GitHub communities
+
+I am encouraging you to create a GitHub repository for the following topics:
+
+* wants - 
+* blog
+* society
+* personal manifesto - how you plan to conduct yourself
+
+
+
+# 12/06/2023 Installing, Visiting, Buying should feel good
+
+Buying a product or service should feel good and feel satisfying, like you gained something of value, worth more than what you paid. Most websites don't have this property.
+
+Would you pay for Google? Facebook? TikTok? People spend all their attention on these applications but not their money.
+
+Going to a website should feel valuable. I remember when growing up I was on holiday and I helped a couple create a Hotmail account in the hotel computer room. It felt valuable to have a Hotmail account. I remember when Tripod and AngelFire were a thing, free webspace was a thing, it felt valuable.
+
 # 10/06/2023 We need to talk about monetization
 
-I don't like the attitude that someone else should pay for it or that it should always be free. If something is free, you're relying on the donation of someone else's time or resources. That's not sustainable.
+How can you charge money before you've demonstrated value?
 
-On the internet, I feel people don't like monetization. A mass of people represents a fire hose of users spending, attention and data: that is extremely valuable. It's just poorly directed at where it can do the most good.
+I don't like the Internet attitude that someone else should pay for it or that it should always be free. If something is free, you're relying on the donation or investment of someone else's time and resources. That's not sustainable.
 
-Everybody has costs. A very small website costs at least $3 a month. People enjoy using services for free and are extremely fast to abandon when the site or app begins to become non-free. 
+There's a shelf life for free things and it's not forever.
+
+On the internet, I feel people don't like monetization, it tends to deteriorate experiences. A mass of people represents a fire hose of users spending, attention and data: that is extremely valuable. It's just poorly directed at where it can do the most good. If you try harvest it, that disrupts it.
+
+Everybody has costs. A very small website costs at least $3 a month. People enjoy using services for free and are extremely fast to abandon when the site or app begins to become non-free. That $3 website can handle at least 100 simultaneous concurrent users. 
 
 In the open source world, people expect open source developers to do what they want them to do, not allow the open source developer to do what they want.
 
-How can you charge money before you've demonstrated value?
+Monetization makes things worse, but it doesn't have to.
 
  
 
@@ -44,9 +157,13 @@ How can you charge money before you've demonstrated value?
 
 # 08/06/2023 NixOS and Guix are stamp collecting
 
+Why are we building the same abstractions of packaging again and again, repeating the build process for slightly different operating systems?
+
 
 
 # 06/06/2023 The computer industry has gone the way of the hifi industry
+
+High fidelity stereo was something many people were invested in but now it has become a niche hobby. The same is happening to desktop computers.
 
 
 
