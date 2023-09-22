@@ -24,6 +24,18 @@ Some highlights of what I am building:
 
 Samuel Squire's personal tech blog
 
+# 08/09/2023 There isn't a single technical product for social media scalability
+
+
+
+# 24/08/2023 The price is the product
+
+
+
+# 16/08/2023 Costs and scaling and ratios
+
+
+
 # 09/08/2023 Expedited payments
 
 
