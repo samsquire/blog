@@ -2,7 +2,7 @@
 
 I'm a devops software engineer with skills in Python, Java, Javascript, Terraform and C.
 
-Some highlights of what I am building:
+Some highlights of what I am building: My blog is underneath this table.
 
 |Project|Description|Link|
 |---|---|---|
