@@ -30,6 +30,10 @@ Some highlights of what I am building: My blog is underneath this table. My code
 
 Samuel Squire's personal tech blog
 
+# 03/10/2023 LLMs order
+
+Ordering in a neural network is interesting.
+
 # 08/09/2023 There isn't a single technical product for social media scalability
 
 
