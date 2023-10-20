@@ -2,6 +2,8 @@
 
 I'm a devops software engineer with skills in Python, Java, Javascript, Terraform and C.
 
+You can email me sam@samsquire.com
+
 Some highlights of what I am building: My blog is underneath this table. My code is usually Zero Clause BSD licenced unless it incorporates other people's code.
 
 |Project|Description|Link|
